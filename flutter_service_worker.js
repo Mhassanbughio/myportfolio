@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "009c9e65172e010890f7f65fde438006",
-"index.html": "602946804385bebf1c184a0776036559",
-"/": "602946804385bebf1c184a0776036559",
+"index.html": "5fe44e08e9450a317b8bd5283c2f237b",
+"/": "5fe44e08e9450a317b8bd5283c2f237b",
 "main.dart.js": "a51f3e5a3cf98759a4bb1611cce1f8d2",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -38,11 +38,7 @@ const RESOURCES = {
 "assets/assets/my.png": "c474f44a93097396a5e90e08931be74b",
 "assets/assets/my.jpg": "4f053c91d9ce87499d69ffe03bf4083c",
 "assets/assets/Fashion%2520week.jpg": "1be96017836996fa4e25c13d2712913f",
-"assets/assets/tempImg.jpg": "c29a9296a86b4b516217760cd6bad4b8",
-"canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
-"canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
-"canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
-"canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498"
+"assets/assets/tempImg.jpg": "c29a9296a86b4b516217760cd6bad4b8"
 };
 
 // The application shell files that are downloaded before a service worker can
